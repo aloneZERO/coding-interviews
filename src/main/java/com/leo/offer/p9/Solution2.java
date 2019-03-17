@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
  * 用两个栈来实现一个队列，完成队列的 Push 和 Pop 操作。
  *
  * @author justZero
- * <a href="https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking">牛客题目链接</a>
+ * @see <a href="https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking">牛客题目链接</a>
  * @since 2019/3/16
  */
 public class Solution2 {

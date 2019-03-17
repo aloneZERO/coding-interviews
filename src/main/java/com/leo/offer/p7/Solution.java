@@ -10,7 +10,7 @@ import java.util.Map;
  * 假设输入的前序遍历和中序遍历的结果中都不含重复的数字。
  *
  * @author justZero
- * <a href="https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking">牛客题目链接</a>
+ * @see <a href="https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking">牛客题目链接</a>
  * @since 2019/3/16
  */
 public class Solution {

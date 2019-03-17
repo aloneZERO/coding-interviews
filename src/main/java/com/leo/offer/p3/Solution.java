@@ -10,7 +10,7 @@ import static org.junit.Assert.assertTrue;
  * 请找出数组中任意一个重复的数字。
  *
  * @author justZero
- * <a href="https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tqId=11203&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking">牛客题目链接</a>
+ * @see <a href="https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tqId=11203&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking">牛客题目链接</a>
  * @since 2019/3/16
  */
 public class Solution {
